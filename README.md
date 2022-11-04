@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... aprender com voces
 - 🌱 I’m currently learning  programacao
 - 💞️ I’m looking to collaborate on ... uma colaboracao de site
-- 📫 How to reach me ...
+- 📫 How to reach me ... pagando um açai
 
 <!---
 talitalealsantos/talitalealsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
